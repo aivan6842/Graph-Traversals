@@ -84,7 +84,7 @@ int main() {
     cout << "Running Breadth First Search" << endl;
     bfs<int>(1, graph1);
     cout << endl;
-    cout << "Running Breadth First Search" << endl;
+    cout << "Running Depth First Search" << endl;
     dfs<int>(1, graph1);
     cout << endl;
 
